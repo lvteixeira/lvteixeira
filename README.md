@@ -1,5 +1,10 @@
 Hello, 
-My name is Leo and I am from Brazil. I am an 24 years old sysadmin, computer science student.
+My name is Leo and I"m from Brazil. I'm an 24 years old syseng, computer science student.
+I've been programming back end systems in Python, Java and NodeJS.
+
+Lately I'm seeking to improve front end skills by studying Angular and styling fancy pages with TailwindCSS using DaisyUI templates.
+
+On free time I like to read non technical books, make some coffee and seize the day outside.
 
 <!---
 lvteixeira/lvteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
