@@ -1,5 +1,5 @@
 Hello, 
-My name is Leo and I"m from Brazil. I'm an 25 years old fullstack web developer, computer science student.
+My name is Leo and I"m from Brazil. I'm an 26 years old fullstack web developer, computer science student.
 I've been programming back end systems in Java, NodeJS, Python and also fancy UI apps in React.
 
 Lately I'm seeking to improve software engineering skills for writing better code no matter the paradigm.
